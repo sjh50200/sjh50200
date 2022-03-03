@@ -1,10 +1,11 @@
 ### Hi there I'm passionable developer👋
 ## Nothing is impossible.
 
-Skills
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
+
 <!--
 **sjh50200/sjh50200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 
 Here are some ideas to get you started:
 
