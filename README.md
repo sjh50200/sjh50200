@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E"/></a> &nbsp
 </p>
+<br />
 <h3 align="center">👨🏻‍💻 I can deploy with 👨🏻‍💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
