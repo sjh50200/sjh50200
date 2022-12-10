@@ -1,9 +1,10 @@
 <div align="center">
+  
+![header](https://capsule-render.vercel.app/api?color=timeGradient&type=waving&text=Welcome!%20🤗&fontColor=ffffff&fontSize=40&fontAlignY=35&animation=twinkling&height=200&textBg=true)
+  
 <h3 align="center">🌳 Language 🌳</h3>
-<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a> &nbsp
-</p>
 <h3 align="center">🌳 Tech stack 🌳</h3>
 <h4 align="center">frontend</h5>
 <p align="center">
@@ -31,11 +32,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
-<hr/>
+<br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjh50200&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjh50200&layout=compact&theme=tokyonight)
-
 
 </div>
 <!--
