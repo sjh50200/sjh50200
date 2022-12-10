@@ -1,3 +1,4 @@
+<div align="center">
 <h3 align="center">🌳 Language 🌳</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a> &nbsp
@@ -30,6 +31,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
+<hr/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjh50200&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjh50200&layout=compact&theme=tokyonight)
+
+
+</div>
 <!--
 **sjh50200/sjh50200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Skills
@@ -46,5 +54,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjh50200&show_icons=true&theme=radical)
